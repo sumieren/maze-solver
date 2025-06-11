@@ -1,4 +1,6 @@
 # maze-solver
+Generates a maze in a given 2d grid, and then applies a solver to it.
+
 Suggestions for additional practice:
 * Add other solving algorithms, like breadth-first search or A*
 * Make the visuals prettier, change the colors, etc
